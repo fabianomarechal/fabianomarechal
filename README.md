@@ -1,6 +1,6 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://www.acheplus.com.br/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffabiano.09c71623.jpeg&w=384&q=75">
- <source media="(prefers-color-scheme: light)" srcset="https://www.acheplus.com.br/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffabiano.09c71623.jpeg&w=384&q=75">
+ <source media="(prefers-color-scheme: dark)" srcset="thumb.jpg&w=384&q=75">
+ <source media="(prefers-color-scheme: light)" srcset="thumb.jpg&w=384&q=75">
  <img alt="Minha foto pessoal" src="thumb.jpg">
 </picture>
 
