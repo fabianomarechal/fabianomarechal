@@ -1,7 +1,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="thumb.jpg">
  <source media="(prefers-color-scheme: light)" srcset="thumb.jpg">
- <img alt="Minha foto pessoal" src="thumb.jpg">
+ <img alt="Minha foto pessoal" src="thumb.jpg" width="380">
 </picture>
 
 ## About me
