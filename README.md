@@ -4,6 +4,10 @@
  <img alt="Minha foto pessoal" src="thumb.jpg" width="380">
 </picture>
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+
 ## About me
 
 - 👋 Hi, I’m @fabianomarechal
