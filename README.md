@@ -13,6 +13,11 @@
 - 💞️ I’m looking to collaborate on OpenSource Community...
 - 📫 How to reach me: [fabiano.marechal@gmail.com](mailto:fabiano.marechal@gmail.com)
 
+## Academic Education
+- Graduation in Information Systems
+- Graduation in Real estate business management
+- Postgraduate in Business Intelligence, big data and Analitycs
+
 ## Certifications
 <!--START_SECTION:badges-->
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/acf48cf3-c2db-4b21-a1de-dde76dd0fd65 "AWS Certified Cloud Practitioner")
