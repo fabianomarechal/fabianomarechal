@@ -4,6 +4,16 @@
  <img alt="Minha foto pessoal" src="thumb.jpg" width="380">
 </picture>
 
+
+## About me
+
+- 👋 Hi, I’m @fabianomarechal
+- 👀 I’m interested in Technology :computer: , coding :man_technologist: and Music :notes:...
+- 🌱 I’m currently learning Business inteligence, big data and analytics...
+- 💞️ I’m looking to collaborate on OpenSource Community...
+- 📫 How to reach me: [fabiano.marechal@gmail.com](mailto:fabiano.marechal@gmail.com)
+
+## Certifications
 <!--START_SECTION:badges-->
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/acf48cf3-c2db-4b21-a1de-dde76dd0fd65 "AWS Certified Cloud Practitioner")
 [![Scrum Foundation Professional Certificate - SFPC™](https://images.credly.com/size/110x110/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png)](http://www.credly.com/badges/830ca4a7-1770-49f7-bd14-0f019f73ed8a "Scrum Foundation Professional Certificate - SFPC™")
@@ -17,14 +27,7 @@
 [![Networking Academy Learn-A-Thon 2020](https://images.credly.com/size/110x110/images/6f20f78c-c26c-4536-9d4c-4fb60cbe4044/learnathon.png)](http://www.credly.com/badges/91e5453d-a81a-42b6-b85f-95f30e7ac7d3 "Networking Academy Learn-A-Thon 2020")
 <!--END_SECTION:badges-->
 
-
-## About me
-
-- 👋 Hi, I’m @fabianomarechal
-- 👀 I’m interested in Technology :computer: , coding :man_technologist: and Music :notes:...
-- 🌱 I’m currently learning Business inteligence, big data and analytics...
-- 💞️ I’m looking to collaborate on OpenSource Community...
-- 📫 How to reach me: [fabiano.marechal@gmail.com](mailto:fabiano.marechal@gmail.com)
+## Languages and frameworks
 
 <details open>
  <summary>Languages</summary>
