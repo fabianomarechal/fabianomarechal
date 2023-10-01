@@ -5,21 +5,21 @@
 </picture>
 
 
-## Quem sou eu?
+## Who am I?
 
-🚀 Desenvolvedor Fullstack Especializado em Big Data e Ciência de Dados 📊
+🚀 Fullstack Developer Specialized in Big Data and Data Science 📊
 
-👋 Olá! Sou um apaixonado por tecnologia com experiência sólida em desenvolvimento fullstack e um profundo conhecimento em Big Data e Ciência de Dados. Combinando minhas habilidades de criação de aplicativos robustos com minha capacidade de transformar dados em insights valiosos, estou em uma missão para impulsionar o sucesso de projetos desafiadores.
+👋 Hello! I am passionate about technology with solid experience in fullstack development and a deep knowledge of Big Data and Data Science. Combining my skills in building robust applications with my ability to transform data into valuable insights, I'm on a mission to drive the success of challenging projects.
 
-💼 No meu arsenal técnico, domino tecnologias como Node.js, React, Next.js, Nest.js e PostgreSQL para criar aplicativos web de alto desempenho. Também sou fluente em Python para análise avançada de dados, criação de modelos de machine learning e automação.
+💼  my technical arsenal, I master technologies such as Node.js, React, Next.js, Nest.js and PostgreSQL to create high-performance web applications. I am also fluent in Python for advanced data analysis, creating machine learning models and automation.
 
-📈 Minha paixão está em explorar dados e encontrar soluções criativas para problemas complexos. Trabalhei em projetos de análise preditiva, otimização de processos e visualização de dados que impulsionaram decisões estratégicas e economias significativas para empresas.
+📈 My passion is exploring data and finding creative solutions to complex problems. I worked on predictive analysis, process optimization and data visualization projects that drove strategic decisions and significant savings for companies.
 
-🌐 Além disso, sou um colaborador ativo na comunidade de código aberto, contribuindo para projetos relevantes e compartilhando meu conhecimento para impulsionar a inovação.
+🌐 Additionally, I am an active contributor in the open source community, contributing to relevant projects and sharing my knowledge to drive innovation.
 
-💬 Estou sempre aberto a oportunidades emocionantes de colaboração, consultoria e desenvolvimento. Vamos trabalhar juntos para criar soluções poderosas e impulsionar o sucesso!
+💬 I am always open to exciting collaboration, consultancy and development opportunities. Let's work together to create powerful solutions and drive success!
 
-📧 Entre em contato comigo em [fabiano.marechal@gmail.com](mailto:fabiano.marechal@gmail.com) ou siga-me no [LinkedIn](https://www.linkedin.com/in/fabianomarechal) para uma conversa mais detalhada. Mal posso esperar para fazer parte do seu próximo projeto!
+📧 Contact me at [fabiano.marechal@gmail.com](mailto:fabiano.marechal@gmail.com) or follow me on [LinkedIn](https://www.linkedin.com/in/fabianomarechal) for a more detailed conversation. I can't wait to be part of your next project!
 
 
 ## Academic Education
@@ -27,7 +27,8 @@
 - Graduation in Real estate business management
 - Postgraduate in Business Intelligence, big data and Analitycs
 
-## Certifications
+
+## Relevant achievements
 <!--START_SECTION:badges-->
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/acf48cf3-c2db-4b21-a1de-dde76dd0fd65 "AWS Certified Cloud Practitioner")
 [![Scrum Foundation Professional Certificate - SFPC™](https://images.credly.com/size/110x110/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png)](http://www.credly.com/badges/830ca4a7-1770-49f7-bd14-0f019f73ed8a "Scrum Foundation Professional Certificate - SFPC™")
@@ -40,6 +41,7 @@
 [![Networking Academy Learn-A-Thon 2022](https://images.credly.com/size/110x110/images/0a00ff19-2af2-452c-b855-a00f24e577dd/image.png)](http://www.credly.com/badges/d41f695b-adde-4db4-a6f5-395aad88bb27 "Networking Academy Learn-A-Thon 2022")
 [![Networking Academy Learn-A-Thon 2020](https://images.credly.com/size/110x110/images/6f20f78c-c26c-4536-9d4c-4fb60cbe4044/learnathon.png)](http://www.credly.com/badges/91e5453d-a81a-42b6-b85f-95f30e7ac7d3 "Networking Academy Learn-A-Thon 2020")
 <!--END_SECTION:badges-->
+
 
 ## Languages and frameworks
 
