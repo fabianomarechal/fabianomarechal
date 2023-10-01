@@ -5,13 +5,22 @@
 </picture>
 
 
-## About me
+## Quem sou eu?
 
-- 👋 Hi, I’m @fabianomarechal
-- 👀 I’m interested in Technology :computer: , coding :man_technologist: and Music :notes:...
-- 🌱 I’m currently learning Business inteligence, big data and analytics...
-- 💞️ I’m looking to collaborate on OpenSource Community...
-- 📫 How to reach me: [fabiano.marechal@gmail.com](mailto:fabiano.marechal@gmail.com)
+🚀 Desenvolvedor Fullstack Especializado em Big Data e Ciência de Dados 📊
+
+👋 Olá! Sou um apaixonado por tecnologia com experiência sólida em desenvolvimento fullstack e um profundo conhecimento em Big Data e Ciência de Dados. Combinando minhas habilidades de criação de aplicativos robustos com minha capacidade de transformar dados em insights valiosos, estou em uma missão para impulsionar o sucesso de projetos desafiadores.
+
+💼 No meu arsenal técnico, domino tecnologias como Node.js, React, Next.js, Nest.js e PostgreSQL para criar aplicativos web de alto desempenho. Também sou fluente em Python para análise avançada de dados, criação de modelos de machine learning e automação.
+
+📈 Minha paixão está em explorar dados e encontrar soluções criativas para problemas complexos. Trabalhei em projetos de análise preditiva, otimização de processos e visualização de dados que impulsionaram decisões estratégicas e economias significativas para empresas.
+
+🌐 Além disso, sou um colaborador ativo na comunidade de código aberto, contribuindo para projetos relevantes e compartilhando meu conhecimento para impulsionar a inovação.
+
+💬 Estou sempre aberto a oportunidades emocionantes de colaboração, consultoria e desenvolvimento. Vamos trabalhar juntos para criar soluções poderosas e impulsionar o sucesso!
+
+📧 Entre em contato comigo em [fabiano.marechal@gmail.com](mailto:fabiano.marechal@gmail.com) ou siga-me no [LinkedIn](https://www.linkedin.com/in/fabianomarechal) para uma conversa mais detalhada. Mal posso esperar para fazer parte do seu próximo projeto!
+
 
 ## Academic Education
 - Graduation in Information Systems
