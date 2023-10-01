@@ -31,7 +31,7 @@
 ## Relevant achievements
 <!--START_SECTION:badges-->
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/acf48cf3-c2db-4b21-a1de-dde76dd0fd65 "AWS Certified Cloud Practitioner")
-[![Scrum Foundation Professional Certificate - SFPC™](https://images.credly.com/size/110x110/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png)](http://www.credly.com/badges/830ca4a7-1770-49f7-bd14-0f019f73ed8a "Scrum Foundation Professional Certificate - SFPC™")
+[![Scrum Foundation Professional Certificate - SFPC™](https://images.credly.com/size/680x680/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png)](http://www.credly.com/badges/830ca4a7-1770-49f7-bd14-0f019f73ed8a "Scrum Foundation Professional Certificate - SFPC™")
 [![Lifelong Learning](https://images.credly.com/size/110x110/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png)](http://www.credly.com/badges/f24d8543-8faa-45b6-a13a-02fccd4572ef "Lifelong Learning")
 [![Network Security](https://images.credly.com/size/110x110/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png)](http://www.credly.com/badges/9ddfbe90-dd9f-411f-bc78-18d451d78d68 "Network Security")
 [![Cybersecurity Essentials](https://images.credly.com/size/110x110/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](http://www.credly.com/badges/2e6a1468-50dd-441b-ac25-2d78e94d6ab1 "Cybersecurity Essentials")
