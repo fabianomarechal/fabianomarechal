@@ -30,9 +30,10 @@
 
 ## Relevant achievements
 <!--START_SECTION:badges-->
+[![Endpoint Security](https://images.credly.com/size/110x110/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png)](http://www.credly.com/badges/27bad20e-6d22-40d3-9d82-8adfee958e72 "Endpoint Security")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/acf48cf3-c2db-4b21-a1de-dde76dd0fd65 "AWS Certified Cloud Practitioner")
-[![Scrum Foundation Professional Certificate - SFPC™](https://images.credly.com/size/110x110/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png)](http://www.credly.com/badges/830ca4a7-1770-49f7-bd14-0f019f73ed8a "Scrum Foundation Professional Certificate - SFPC™")
-[![Lifelong Learning](https://images.credly.com/size/110x110/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png)](http://www.credly.com/badges/f24d8543-8faa-45b6-a13a-02fccd4572ef "Lifelong Learning")
+[![Scrum Foundation Professional Certification - SFPC™ !](https://images.credly.com/size/110x110/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png)](http://www.credly.com/badges/830ca4a7-1770-49f7-bd14-0f019f73ed8a "Scrum Foundation Professional Certification - SFPC™ !")
+[![Lifelong Learning](https://images.credly.com/size/110x110/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob)](http://www.credly.com/badges/f24d8543-8faa-45b6-a13a-02fccd4572ef "Lifelong Learning")
 [![Network Security](https://images.credly.com/size/110x110/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png)](http://www.credly.com/badges/9ddfbe90-dd9f-411f-bc78-18d451d78d68 "Network Security")
 [![Cybersecurity Essentials](https://images.credly.com/size/110x110/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](http://www.credly.com/badges/2e6a1468-50dd-441b-ac25-2d78e94d6ab1 "Cybersecurity Essentials")
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/eaf0b4f7-1345-4068-8b29-91ea28f31ef3 "Introduction to Cybersecurity")
