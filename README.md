@@ -30,6 +30,7 @@
 
 ## Relevant achievements
 <!--START_SECTION:badges-->
+[![Junior Cybersecurity Analyst Career Path](https://images.credly.com/size/110x110/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png)](http://www.credly.com/badges/7c86fd0c-741d-45cc-aa2a-22c0190db96e "Junior Cybersecurity Analyst Career Path")
 [![Endpoint Security](https://images.credly.com/size/110x110/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png)](http://www.credly.com/badges/27bad20e-6d22-40d3-9d82-8adfee958e72 "Endpoint Security")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/acf48cf3-c2db-4b21-a1de-dde76dd0fd65 "AWS Certified Cloud Practitioner")
 [![Scrum Foundation Professional Certification - SFPC™ !](https://images.credly.com/size/110x110/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png)](http://www.credly.com/badges/830ca4a7-1770-49f7-bd14-0f019f73ed8a "Scrum Foundation Professional Certification - SFPC™ !")
